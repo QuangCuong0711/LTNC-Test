@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707739360 source:d:\codeblock\a+++\main.cpp
+	<SDL.h>
+	<bits/stdc++.h>
+	<SDL_image.h>
+
