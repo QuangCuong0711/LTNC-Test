@@ -1,10 +1,4 @@
-#include <bits/stdc++.h>
-using namespace std;
-int main(){
-    bool a=(2.0==sqrt(2)*sqrt(2));
-    cout<< a;
-}
-/*#include <SDL.h>
+#include <SDL.h>
 #include <bits/stdc++.h>
 #include <SDL_image.h>
 
@@ -198,4 +192,5 @@ int main(int argc, char* argv[])
     return 0;
 
 }
-*/
+
+
